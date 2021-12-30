@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this project is to demonstrate my new skills within html. Thus far I should be able to create a new repository on GitHub, port said repository through my terminal onto Ubuntu. Navigating through my terminal, I can enter VSC in order to update my README file.
